@@ -228,6 +228,8 @@ Typical Results:
 
 ## Project Structure
 
+[I couldn't update all the data here for storage purposes]
+
 ```text
 Digit-Recognizer/
 │
